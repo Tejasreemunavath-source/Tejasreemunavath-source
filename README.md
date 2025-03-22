@@ -35,6 +35,9 @@
 🔹 **Tech:** OpenAI GPT-4, FastAPI, Streamlit  
 🔹 **Summary:** AI chatbot for answering customer queries in real-time.  
 
+![Tejasree's GitHub Banner](https://raw.githubusercontent.com/Tejasreemunavath-source/main/A_professional_GitHub_profile_banner_for_Tejasree_.png)
+
+
 ---
 
 ### 🌟 Work With Me  
