@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me  
-✅ **AI/ML Analyst @ Accenture** | **IIT Kharagpur Graduate**  
+✅ **AI/ML Analyst @ Accenture** | **IIEST SHIBPUR GRADUATE**  
 ✅ **Freelancer | AI/ML & Data Analytics Consultant**  
 ✅ **Building real-world AI/ML projects for businesses & startups**  
 ✅ **Currently mastering Generative AI & LLMs (GPT-4, Gemini, LangChain)**  
